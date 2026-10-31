@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-brussels",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Brussels Open Data (opendata.bruxelles.be) — OpenDataSoft MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-brussels",
     "gatewaySlug": "data-brussels",
-    "sourceHash": "v1-41b0870150b5ed62a8f9a3268d75c4e3014a909db61228122bc0fdef82710060",
-    "sourceCommit": "06a6b405041923c5ddf2ac2436e7c049e635f464"
+    "sourceHash": "v1-4b6115dc2c5a8fdd2f3c915fa116329e70083d8ef75c91ad6659cb7f645439c3",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
